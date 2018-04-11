@@ -1,0 +1,7 @@
+export const UPDATE_STORE = 'update_store'
+export const UPDATE_PRODUCT_STORE = 'update_product_store'
+export const POPULATE_STORE = 'populate_store'
+export const GET_BY_SLUG = 'get_by_slug'
+export const SEND_ROUTER_PROPS = 'send_router_props'
+export const GET_LATEST_POST = 'get_latest_post'
+export const UPDATE_CURRENT = 'update_current'
